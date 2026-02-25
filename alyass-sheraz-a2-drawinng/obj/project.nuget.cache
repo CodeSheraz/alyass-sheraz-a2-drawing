@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NlCcKSS4v08=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shira\\source\\repos\\alyass-sheraz-a2-CatDrawinng\\alyass-sheraz-a2-drawinng\\alyass-sheraz-a2-drawinng.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shira\\.nuget\\packages\\raylib-cs\\7.0.1\\raylib-cs.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
